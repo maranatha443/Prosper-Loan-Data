@@ -4,7 +4,7 @@
 
 ## Dataset
 
-This data set gotten from [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)contained 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. However, a subset of the dataset consisting of 15 variables was carved out to inspect, analyze and draw conclusions from. The variables used had the following description as gotten from [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0_):
+This data set gotten from [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv) contained 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. However, a subset of the dataset consisting of 15 variables was carved out to inspect, analyze and draw conclusions from. The variables used had the following description as gotten from [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0_):
 
 ## Summary of Findings
 
